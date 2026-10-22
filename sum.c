@@ -1,0 +1,11 @@
+//WAP to find sum of two numbers
+#include<stdio.h>
+int main()
+{
+int a,b,c;
+printf("Enter two numbers:");
+scanf("%d%d",&a,&b);
+c=a+b;
+printf("c=%d",c);
+return 0;
+}
